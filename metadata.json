@@ -1,0 +1,6 @@
+{
+  "name": "Square Arena",
+  "description": "A 2D top-down HTML5 Canvas shooter set in a walled maze with WASD movement, mouse aiming, wall collision, and rate-limited firing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
